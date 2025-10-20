@@ -138,5 +138,5 @@
     "scylla",
     "scyllahide"
   ],
-  "warningMessage": "⚠️ SISTEMA ANTICHEAT - RUST FAMILY\n\nProcesso proibido detectado: {processName}\n\nO jogo e launcher serão encerrados.\n\nEsta detecção foi registrada nos logs.\n\nReincidências podem resultar em banimento permanente.\n\nPara mais informações, acesse: https://rustfamily.com.br/legal/"
+  "warningMessage": "⚠️ SISTEMA ANTICHEAT - RUST FAMILY\n\nProcesso proibido detectado: {processName}\n\nO jogo e launcher serão encerrados.\n\nEsta detecção foi registrada nos logs.\n\nReincidências podem resultar em banimento permanente."
 }
