@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdate": "2026-02-10T21:00:00Z",
+  "lastUpdate": "2026-02-10",
   "bannedProcesses": [
     "cheatengine",
     "cheatengine-x86_64",
@@ -49,40 +49,29 @@
       "x64dbg",
       "x32dbg",
       "dnspy",
-      "ilspy",
-      "dotpeek",
-      "ollydbg",
-      "ida pro",
-      "windbg"
+      "ilspy"
     ],
     "originalFilenames": [
       "extreme injector.exe",
       "xenos.exe",
       "xenos64.exe",
-      "xenos32.exe",
       "cheatengine-x86_64.exe",
       "cheatengine-i386.exe",
       "processhacker.exe",
-      "processhacker64.exe",
       "x64dbg.exe",
-      "x32dbg.exe",
-      "dnspy.exe",
-      "ilspy.exe"
+      "x32dbg.exe"
     ],
     "fileDescriptions": [
       "extreme injector",
       "xenos injector",
       "cheat engine",
-      "process hacker",
-      "x64 debugger",
-      "x32 debugger"
+      "process hacker"
     ],
     "companyNames": [
       "master131",
-      "darawk",
-      "cheat engine"
+      "darawk"
     ]
   },
-  "warningMessage": "⚠️ SISTEMA ANTICHEAT - RUST FAMILY\n\nProcesso proibido detectado: {processName}\nMétodo: {detectionMethod}\n\nO launcher será encerrado.\n\nEsta violação foi registrada e pode resultar em banimento.",
-  "updateMessage": "🛡️ Anticheat v2.0 ativo - Proteção por metadados de arquivo habilitada"
+  "warningMessage": "⚠️ SISTEMA ANTICHEAT - RUST FAMILY\n\nProcesso não autorizado detectado: {processName}\n\nO jogo e launcher serão encerrados.\n\nEsta violação foi registrada e será analisada.\n\nReincidências podem resultar em banimento permanente.",
+  "updateMessage": "Sistema anticheat atualizado com sucesso!"
 }
