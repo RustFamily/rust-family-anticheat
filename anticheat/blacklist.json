@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "lastUpdate": "2026-02-10",
+  "version": "2.1",
+  "lastUpdate": "2026-02-12",
   "bannedProcesses": [
     "cheatengine",
     "cheatengine-x86_64",
@@ -38,40 +38,17 @@
     "autohotkey",
     "ahk",
     "autoit",
-    "autoit3"
+    "autoit3",
+
+    "steam",
+    "steamwebhelper",
+    "discord",
+    "chrome",
+    "msedge",
+    "firefox",
+    "opera",
+    "operagx"
   ],
-  "bannedMetadata": {
-    "productNames": [
-      "extreme injector",
-      "xenos injector",
-      "cheat engine",
-      "process hacker",
-      "x64dbg",
-      "x32dbg",
-      "dnspy",
-      "ilspy"
-    ],
-    "originalFilenames": [
-      "extreme injector.exe",
-      "xenos.exe",
-      "xenos64.exe",
-      "cheatengine-x86_64.exe",
-      "cheatengine-i386.exe",
-      "processhacker.exe",
-      "x64dbg.exe",
-      "x32dbg.exe"
-    ],
-    "fileDescriptions": [
-      "extreme injector",
-      "xenos injector",
-      "cheat engine",
-      "process hacker"
-    ],
-    "companyNames": [
-      "master131",
-      "darawk"
-    ]
-  },
-  "warningMessage": "⚠️ SISTEMA ANTICHEAT - RUST FAMILY\n\nProcesso não autorizado detectado: {processName}\n\nO jogo e launcher serão encerrados.\n\nEsta violação foi registrada e será analisada.\n\nReincidências podem resultar em banimento permanente.",
-  "updateMessage": "Sistema anticheat atualizado com sucesso!"
+  "warningMessage": "⚠️ RUST FAMILY – LAUNCHER DESATUALIZADO\\n\\nO sistema identificou que esta versão do launcher não é mais suportada.\\n\\nPara continuar jogando com segurança, você precisa atualizar para o NOVO Rust Family Launcher.\\n\\nFeche este launcher, acesse o nosso Discord ou site oficial e siga o tutorial de atualização.",
+  "updateMessage": "Configuração de anticheat atualizada. Use o novo launcher para melhor proteção."
 }
